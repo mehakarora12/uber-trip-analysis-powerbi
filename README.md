@@ -32,5 +32,4 @@ and trip efficiency using Power BI.
 - Interactive slicers and drill-through
 - Vehicle and location analysis
 
-## 📝 Note
-This project was created for academic learning and data analytics practice.
+
